@@ -1,0 +1,1 @@
+//Cuando demos start, comience a contar (Intervals y timeouts)
